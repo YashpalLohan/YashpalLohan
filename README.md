@@ -25,8 +25,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" title="Authentication" alt="Authentication" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-256/leaflet-282597.png" title="Leaflet.js" alt="Leaflet.js" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/chess.png" title="Chess.js" alt="Chess.js" width="40" height="40"/>
 </div>
 
 
