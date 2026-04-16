@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me 
 - 👨🏻 Pronouns: He/Him  
-- 🎓 2nd Year Computer Science Student  
+- 🎓 2nd Year CS & AI Student  
 - 💼 I'm currently working as a <strong>Frontend Developer</strong> at MA Studios.  
 - 🎒 I've done 1 internship, mainly focused on frontend development.  
 - 🧭 Passionate about full-stack development – love exploring both frontend and backend.  
