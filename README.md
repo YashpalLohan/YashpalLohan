@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me 
 - 👨🏻 Pronouns: He/Him  
-- 🎓 2nd Year CS & AI Student  
+- 🎓 2nd Year Computer Science Student  
 - 💼 I'm currently working as a <strong>Frontend Developer</strong> at MA Studios.  
 - 🎒 I've done 1 internship, mainly focused on frontend development.  
 - 🧭 Passionate about full-stack development – love exploring both frontend and backend.  
@@ -30,6 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" title="Socket.io" alt="Socket.io" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/ios-filled/50/lock--v1.png" title="OAuth 2.0 / Authentication" alt="Authentication" width="40" height="40"/>&nbsp;
 </div>
 
@@ -47,7 +48,7 @@
     <a href="https://www.instagram.com/yashpal_lohan/">
         <img src="https://img.shields.io/badge/Follow_on_Instagram-Profile?style=for-the-badge&color=E4405F&logo=instagram&logoColor=fff" alt="Instagram"/>
     </a>
-    <a href="https://leetcode.com/u/V1kssQ0y4d/">
+    <a href="https://leetcode.com/YashpalLohan/">
         <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
 </p>
